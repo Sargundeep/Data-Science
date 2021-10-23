@@ -1,0 +1,76 @@
+"s RedmineCRM
+
+"Romashka” Ltd.
+1600 Amphitheatre Parkway Mountain View, CA 94043
+
+# Description
+
+1 Projecting
+- Context menu for invoices list
+
+2 Develop
+- Invoice number format template
+- [PRO] Duplicating invoices
+- Language support
+- Context menu for invoices list
+
+3 Analysis
+- [PRO] Duplicating invoices
+- Language support
+
+RedmineCRM
+
+Company representative name
+
+Your company address
+Tax ID
+
+phone:
+
+fax:
+
+Invoice ID:
+Invoice date:
+
+Due date:
+
+Text custom field:
+
+Oty Units Unit price (EUR)
+
+¥1.0 hours
+
+x17.0 hours
+
+“9.0 hours
+
+Sub total:
+
+Tax (18.0%):
+Discount (10.0%):
+Total (EUR):
+
+50.00
+
+40.00
+
+35.00
+
+INV/20111209-22
+12/08/2011
+12/25/2012
+
+Visible field in PDF
+
+Total (EUR)
+50.00
+
+680.00
+
+105.00
+
+835.00
+150.30
+-83.50
+$01.80
+

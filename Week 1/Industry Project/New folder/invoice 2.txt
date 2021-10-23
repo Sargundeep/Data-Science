@@ -1,0 +1,36 @@
+INVOICE
+
+2
+INVOICE NUMBER , ,
+982093 6 COMPANY
+
+INVOICE TO
+PHILPPE STANDFORD
+
+[Out ) 28 1O9S Woaz
++76 20S 3093 1092
+philstanfordthemall.com
+
+ 
+
+DESCRIPTION QTY. PRICE TOTAL
+Web Design 1 $200.00 $200.00
+Branding 1 $350.00 $350.00
+Graphic Design 27 $55.00 $1485.00
+Web Development 1 $450.00 $450.00
+SUB TOTAL $ 2485.00
+TAX( 1595) $2112.25
+GRAND TOTAL $ 2112.25
+PLEASE MAKE PAYMENT TO
+
+Maria G. Bonzilla
+
+  
+ 
+
+PLEASURE DOING BUSINESS WITH YOU!
+
+Lenetal Aacaget
+
+Momiy’s | (0) 082 1092 S095 | $76 209 5096 1092 | infoienaltys.com | Rodeo Drive, Beverly Hills. California, 471
+

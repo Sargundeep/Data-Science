@@ -1,0 +1,55 @@
+Company Name INVOICE
+
+[Street Address]
+[City, ST ZIP] DATE 12/9/2019
+Phone: [000-000-0000] INVOICE # [123456]
+Fax: [000-000-0000] CUSTOMER ID [123]
+Website: som edomain.com DUE DATE 1/8/2020
+
+BILL TO
+
+[Name]
+
+[Com pany Name]
+[Street Address]
+[City, ST ZIP]
+[Phone]
+
+ 
+
+ 
+
+ 
+
+ 
+
+DESCRIPTION
+[Service Fee]
+[Labor: 5 hours at $75/hr]
+[Parts]
+
+Sub total 950.00
+
+Taxable 345.00
+Tax rate [6.2503
+1. Total payment due in 30 days Tax due 21.56
+2. Please include the invoice number on your check Other 2
+TOTAL $ 971.56
+
+Make all checks payable to
+[Your Company Name]
+
+ 
+
+ 
+
+ 
+
+If you have any questions about this invoice, please contact
+[Name, Phone #, E-mail]
+Thank You For Your Business!
+
+https :// www. vertex42 comvExcelTemp|stes /esxcel-invoice-templste html Invoice Template © 2010-2019 by Vertex42 com
+
+ 
+
