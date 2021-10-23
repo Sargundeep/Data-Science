@@ -42,9 +42,17 @@ pip install pandas
 
 ### Making a Virtual Environment:
  ```
- Step1: Make a vertual Environment .For this, use the below command
- python3 -m venv new-env 
- 
+ -Step1: Create a Virtual Environment.For this, use the below command
+        Command: python3 -m venv <YOUR VIRTUAL ENVIRONMENT NAME>
+
+ -Step2: Activate the Virtual Environment
+       Commands: > cd <YOUR VIRTUAL ENVIRONMENT NAME>
+                > cd Scripts
+                > activate
+       These commands will activate the Virtual Environment.
+             
+                
+ ```
 
 
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/Sargundeep">Sargundeep Sachdeo</a>
