@@ -40,6 +40,11 @@ pip install pandas
 ```
 ---
 
+### Making a Virtual Environment:
+ ```
+ Step1: Make a vertual Environment .For this, use the below command
+ python3 -m venv new-env 
+ 
 
 
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/Sargundeep">Sargundeep Sachdeo</a>
