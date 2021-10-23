@@ -6,7 +6,7 @@
 
 <div class='altmetric-embed' data-badge-type='donut' data-arxiv-id='2106.05239'></div>
 
-[![Downloads](https://pepy.tech/badge/xbnet)](https://poppler.freedesktop.org/)
+[![Downloads](https://pepy.tech/badge/invoice)](https://poppler.freedesktop.org/)
 
 This project is based on extraction of GrandTotal from Invoice PDFs.The basic working of this project includes conversion of PDFs to Images and then to Text. Using RegEX the floating numbers are extracted in a list and the max value is the Grand Total.The entire project is made both with Streamlit and FastAPI.
 
