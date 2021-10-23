@@ -1,8 +1,8 @@
 # Extraction of Grand Total From Invoice PDFs
 
 [![](https://img.shields.io/badge/Made_with-Python-res?style=for-the-badge&logo=pytorch)](https://docs.python.org/3/)
-[![PWC](https://fastapi.tiangolo.com/)]
-[![PWC](https://docs.streamlit.io/)]
+[![PWC](https://img.shields.io/endpoint.svg?url=https://fastapi.tiangolo.com/)](https://fastapi.tiangolo.com/)
+[![PWC](https://docs.streamlit.io/)](https://docs.streamlit.io/)
 
 <div class='altmetric-embed' data-badge-type='donut' data-arxiv-id='2106.05239'></div>
 
