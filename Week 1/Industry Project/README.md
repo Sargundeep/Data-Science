@@ -53,6 +53,16 @@ pip install pandas
              
                 
  ```
+ 
+ ---
+ 
+ ### Run the Code
+    ```
+    Command for Streamlit
+    streamlit run streamlit_extract.py
+    
+    Command For FastAPI:
+    uvicorn fastapi_extract:app --reload
 
 
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/Sargundeep">Sargundeep Sachdeo</a>
